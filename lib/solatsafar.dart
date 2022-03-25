@@ -25,7 +25,7 @@ class solatsafar extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            'أُصَلِّي سُنَّةً مِنَ السَّفَرِ رَكْعَتَيْنِ لِلّٰهِ تَعَالَى',
+                            '\nأُصَلِّي سُنَّةً مِنَ السَّفَرِ رَكْعَتَيْنِ لِلّٰهِ تَعَالَى',
                             style: TextStyle(
                                 fontSize: 30,
                                 fontStyle: FontStyle.italic,
