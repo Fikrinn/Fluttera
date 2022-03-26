@@ -27,7 +27,7 @@ class solattahajud extends StatelessWidget {
                           Text(
                             '\nصَلِّى سُنَّةً التَّهَجُّدِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ ِللهِ تَعَالَى',
                             style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 20,
                                 fontStyle: FontStyle.italic,
                                 fontWeight: FontWeight.bold),
                             textAlign: TextAlign.center,

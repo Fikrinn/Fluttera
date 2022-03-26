@@ -27,7 +27,7 @@ class solattarawih extends StatelessWidget {
                           Text(
                             '\nاُصَلِّى سُنَّةَ التَّرَاوِيْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ مَأْمُوْمًا ِللهِ تَعَالَى',
                             style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 20,
                                 fontStyle: FontStyle.italic,
                                 fontWeight: FontWeight.bold),
                             textAlign: TextAlign.center,

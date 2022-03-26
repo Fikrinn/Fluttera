@@ -27,7 +27,7 @@ class solatied extends StatelessWidget {
                           Text(
                             'اُصَلِّى سُنَّةً لِعِيْدِ الفِطْرِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً إِمَامًا للهِ تَعَالَى',
                             style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 20,
                                 fontStyle: FontStyle.italic,
                                 fontWeight: FontWeight.bold),
                             textAlign: TextAlign.center,
